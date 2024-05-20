@@ -6,7 +6,7 @@ I'm a computer engineering student at Chulalongkorn University.
 
 * 🌍  I'm based in Bangkok, Thailand.
 * ✉️  You can contact me at [aunyapat2003@gmail.com](mailto:aunyapat2003@gmail.com)
-* 🧠  I'm learning Data Structure & Algorithms, Web Development and Digital Computer Logic
+* 🧠  I'm learning Data Structure & Algorithms, software and hardware development
 
 ### Skills
 
