@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tus Aunyapat.</h1>
-<h3 align="center">A junior computer engineering student who is passionate about web development and data science.</h3>
+<h3 align="center">A junior computer engineering student (Chula) who is passionate about web development and data science.</h3>
 
 - 🌱 I’m currently learning **data science**
 
